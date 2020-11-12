@@ -10,6 +10,8 @@ public class Task002 {
 
          */
 
+        //Do we have Soft Skill class today?
+
     }
 
 }
