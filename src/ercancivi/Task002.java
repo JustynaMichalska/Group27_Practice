@@ -6,6 +6,10 @@ public class Task002 {
 
         //this is the single comment line
 
+        /*  this is the multi-line comment body
+
+         */
+
     }
 
 }
