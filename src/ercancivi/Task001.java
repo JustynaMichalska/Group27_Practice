@@ -6,6 +6,8 @@ public class Task001 {
 
         //Hello Group_27
 
+        System.out.println("Hello Group_27");
+
     }
 
 }
